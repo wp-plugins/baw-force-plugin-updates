@@ -10,7 +10,15 @@ License: GPLv2
 You may need to reinstall any of your plugins, juste check the plugins, select "Update", and that's all!
 
 == Description ==
-You may need to reinstall any of your plugins, juste check the plugins, select "Update", and that's all!
+Imagine you get hacked, or you had to modify a plugin's core.
+
+Now, all these plugins (hacked or modified) need to be reinstalled.
+
+You can not do it, you can not "fake update" them too.
+
+You have to delete them, then reupload them, boring.
+
+Now, just check each plugin you want to be reinstalled, chose "Update" in the action select box, "Apply", done ! WordPress let you update them even if they are already up to date ;)
 
 == Screenshots ==
 1. Demo before and after activation (wait for it)
