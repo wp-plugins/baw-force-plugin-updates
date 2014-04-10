@@ -24,7 +24,7 @@ You may need to reinstall any of your plugins, juste check the plugins, select "
 
 == Frequently Asked Questions ==
 
-Not yet
+Because you like cats!
 
 == Upgrade Notice ==
 Nothing.
