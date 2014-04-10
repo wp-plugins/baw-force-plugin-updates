@@ -1,4 +1,4 @@
-=== Force Plugin Updates and Reinstall Your Plugins ===
+=== Force Plugin Updates ===
 Contributors: juliobox
 Tags: security, plugins, updates, install, reinstall
 Requires at least: 2.9
