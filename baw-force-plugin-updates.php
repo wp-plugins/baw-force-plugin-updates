@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Force Plugin Updates
+Plugin Name: BAW Force Plugin Updates
 Description: You may need to reinstall any of your plugins, juste check the plugins, select "Update", and that's all!
 Author: Julio Potier
 Author URI: http://boiteaweb.fr
-Plugin URI: http://boiteaweb.fr
+Plugin URI: http://boiteaweb.fr/force-plugin-updates-re-installez-vos-plugins-rapidement-8016.html
 Version: 1.0
 */
 
